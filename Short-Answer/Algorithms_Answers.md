@@ -9,7 +9,7 @@ b) This algorithm is O(n log n). The for loop makes in at least O(n) but inside 
 the j variable more larger than n quicker and will exit the loop and continue with the for loop 
 
 
-c)
+c) I would say this algorithm is O(n) becuasee the recursion is on calling itself for n number of times and simply just adding 2 to that current number of bunnies.
 
 ## Exercise II
 
