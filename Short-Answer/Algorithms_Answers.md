@@ -2,10 +2,11 @@
 
 ## Exercise I
 
-a)
+a) This algorithm is o(n), originally it looks like it shoud be O(n*3) but as you go through the loop it shouldn't loop more than the given n number
 
 
-b)
+b) This algorithm is O(n log n). The for loop makes in at least O(n) but inside of that for loop there is a while loop and in the while loop it multiples j by 2 which makes 
+the j variable more larger than n quicker and will exit the loop and continue with the for loop 
 
 
 c)
